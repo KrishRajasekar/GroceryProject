@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-29T12:35:38Z" name="Default suite" finished-at="2024-03-29T12:35:48Z" duration-ms="9837">
+    <groups>
+    </groups>
+    <test started-at="2024-03-29T12:35:38Z" name="Default test" finished-at="2024-03-29T12:35:48Z" duration-ms="9837">
+      <class name="org.AssertTestng.Sample">
+        <test-method signature="Tc1()[pri:0, instance:org.AssertTestng.Sample@3b7d3a38]" started-at="2024-03-29T12:35:38Z" name="Tc1" finished-at="2024-03-29T12:35:48Z" duration-ms="9811" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc1 -->
+      </class> <!-- org.AssertTestng.Sample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
